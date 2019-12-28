@@ -4,8 +4,11 @@
   "description": "Example Music Bot by MrSmooK",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bot.js"
+  },
+  "engines": {
+    "node": "10.16.*",
+    "yarn": "1.17.*"
   },
   "author": "MrSmooK",
   "license": "MIT",
