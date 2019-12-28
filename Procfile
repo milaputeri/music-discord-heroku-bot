@@ -1,1 +1,1 @@
-worker: node bot.js
+worker:  npm install api && node api/src/app.js
